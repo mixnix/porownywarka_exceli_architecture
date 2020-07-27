@@ -1,0 +1,5 @@
+# operations on excel files
+xlwings
+
+# packing to exe
+pyinstaller  # run: pyinstaller -c -F porownywarka_exceli_gui.py
